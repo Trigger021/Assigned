@@ -1,0 +1,27 @@
+h1{
+    background-color: black;
+    color: whitesmoke;
+    text-align: center;
+}
+h1:hover{
+    background-color: lawngreen;
+}
+.main{
+    display: grid;
+}
+.dogs{
+    display: flex;
+}
+img{
+    width: 100px;
+    height: 100px;
+    margin: 20px ;
+}
+p{
+    text-align: center;
+    background-color: red;
+}
+h2{
+    background-color: aquamarine;
+    color: whitesmoke;
+}
